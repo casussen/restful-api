@@ -1,6 +1,6 @@
 'use strict';
 
-const functions = requitre('firebase-functions');
+const functions = require('firebase-functions');
 
 exports.dialogflowFirebaseFulfillment =
   functions.https.onRequest((request, response) =>  {
