@@ -4,37 +4,33 @@ Content-type: application/json
 
 POST body:
 {
-  "user_1": {
-    "name": "John",
+  "John": {
     "checking": {
       "balance": "$37,043.31"
     }
   },
 
 
-  "user_2": {
-    "name": "Mary",
+  "Mary": {
     "checking": {
       "balance": "$11,543.45"
     }
   },
 
-  "user_3": {
+  "Susan": {
     "name": "Susan",
     "checking": {
       "balance": "$72,436,851.84"
     }
   },
 
-  "user_4": {
-    "name": "Josh",
+  "Josh": {
     "checking": {
       "balance": "$0.01"
     }
   },
 
-  "user_5": {
-    "name": "Michael",
+  "Michael": {
     "checking": {
       "balance": "$80,432.45"
     }
